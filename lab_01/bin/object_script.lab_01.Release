@@ -1,0 +1,13 @@
+release/caretaker.o
+release/ifigure.o
+release/imemento.o
+release/main.o
+release/mymainwindow.o
+release/myscene.o
+release/tank.o
+release/moc_caretaker.o
+release/moc_ifigure.o
+release/moc_imemento.o
+release/moc_mymainwindow.o
+release/moc_myscene.o
+release/moc_tank.o

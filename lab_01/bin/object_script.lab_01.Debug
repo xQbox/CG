@@ -1,0 +1,13 @@
+debug/caretaker.o
+debug/ifigure.o
+debug/imemento.o
+debug/main.o
+debug/mymainwindow.o
+debug/myscene.o
+debug/tank.o
+debug/moc_caretaker.o
+debug/moc_ifigure.o
+debug/moc_imemento.o
+debug/moc_mymainwindow.o
+debug/moc_myscene.o
+debug/moc_tank.o
