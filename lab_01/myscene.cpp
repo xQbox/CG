@@ -942,8 +942,7 @@ void MyScene::mousePressEvent(QMouseEvent *event)
         startPosition = applyInverseMatrix(matrix, event->pos());
 
 
-        QPointF clickedPoint = event->pos();
-        clickedPoint = applyTransformMatrix(clickedPoint);
+        QPointF clickedPoint = applyInverseMatrix(matrix, event->pos());
 
         isClicked = false;
         for (auto &elem : figures)
